@@ -6,7 +6,7 @@
         "radio": "*",
         "OmniBit": "github:lzty634158/omnibit#21c29d255327798ea59b4e2a870ae219d3901af6",
         "pxt-watchfont": "github:hokarimasahiro/pxt-watchfont#572ae2ddd7f597dc65081544432e18b706bec4c4",
-        "pxt-getradiogroup": "github:hokarimasahiro/pxt-getradiogroup#c00212ab9efc19ecc7da41070ec4a4a557bbbc76",
+        "pxt-getradiogroup": "github:hokarimasahiro/pxt-getradiogroup#32f7410a7cfd769fb562a6dfe32673ffb7965a90",
         "microphone": "*"
     },
     "files": [
